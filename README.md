@@ -7,4 +7,5 @@ Based on [ronilaukkarinen/miniflux-theme-midnight](https://github.com/ronilaukka
 - Go to miniflux.css
 - Copy the whole file and paste it in the css section under miniflux > settings 
 
-- @gurupanguji
+
+~ [@gurupanguji](https://gurupanguji.com/)
