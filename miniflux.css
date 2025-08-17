@@ -21,6 +21,7 @@
   --primary-color: #0280ee;
   --primary-variant-color: #005cb8;
   --secondary-color: #fe9c07;
+  --secondary-variant-color: #c67a00; /* Darker orange for visited links */
   --background-color: #ffffff;
   --surface-color: #f5f5f5;
   --error-color: #b00020;
@@ -37,7 +38,7 @@
   --link-color: var(--primary-color);
   --link-hover-color: var(--primary-variant-color);
   --link-focus-color: var(--primary-variant-color);
-  --link-visited-color: var(--secondary-color);
+  --link-visited-color: var(--secondary-variant-color);
   --hr-border-color: #e0e0e0;
 
   /* Header */
